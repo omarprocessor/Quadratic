@@ -1,5 +1,3 @@
-
-
 document.getElementById("submit").onclick = function(){
     let x1;
     let x2;
